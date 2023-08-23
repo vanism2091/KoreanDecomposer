@@ -4,7 +4,7 @@ A description of this package.
 
 ## Installation
 
-To install this package, import `https://github.com/vanism2091/KoreanDecomposer.git` in SPM.
+To install this package, import `https://github.com/vanism2091/KoreanDecomposer` in SPM.
 
 ## Usage Example
 
