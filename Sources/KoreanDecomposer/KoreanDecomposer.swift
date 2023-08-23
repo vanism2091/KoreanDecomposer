@@ -3,6 +3,10 @@ public enum KoreanDecomposer {
         let chosung: Character
         let jungsung: Character
         let jongsung: Character
+
+        public var asArray: [Character] {
+            [chosung, jungsung, jongsung]
+        }
     }
 
     public static func decompose(_ character: Character) -> KoreanComponent? {
